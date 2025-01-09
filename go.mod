@@ -1,4 +1,4 @@
-module github.com/famesensor/playground-go-helper
+module github.com/famesensor/ghelper
 
 go 1.23.3
 
