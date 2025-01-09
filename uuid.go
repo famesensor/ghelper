@@ -1,4 +1,4 @@
-package main
+package ghelper
 
 import "github.com/google/uuid"
 
