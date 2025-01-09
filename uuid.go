@@ -2,13 +2,13 @@ package ghelper
 
 import "github.com/google/uuid"
 
-type UUID interface {
+type Uuider interface {
 	New() string
 }
 
 type uuids struct{}
 
-func NewUUID() UUID {
+func NewUUID() Uuider {
 	return &uuids{}
 }
 
