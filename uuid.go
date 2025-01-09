@@ -1,4 +1,4 @@
-package main
+package playgroundgohelper
 
 import "github.com/google/uuid"
 
